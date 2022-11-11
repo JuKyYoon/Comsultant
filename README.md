@@ -1,9 +1,6 @@
 # README.md
 <div align="center">
-    <img src="/uploads/806d4cb9e043a83fe720b3ebe0f09576/컴설턴트노션.JPG" width="30%"/>
-</div>
-<div align="center">
-    <img src="/uploads/f58a55fab660837f4717e1047e0721cc/사이트.JPG" width="60%"/>
+    <img src="https://user-images.githubusercontent.com/22341159/201243345-d2fb60a8-4559-41d0-ad5b-a8df2835f684.JPG" width="60%"/>
 </div>
 
 ## 1. 서비스 소개💻
@@ -89,13 +86,13 @@
 ---
 ## 4. 데이터 흐름
 
-<img src="/uploads/b91805a7f8ebd4d13b47e4c857b52b6f/데이터흐름.JPG" width="60%"/>
+<img src="https://user-images.githubusercontent.com/22341159/201243629-c1e1e065-dbdb-4424-b4c7-79d80b2a5c51.JPG" width="60%"/>
 
 ---
 
 ## 5. 서비스 아키텍처
 
-<img src="/uploads/5e1fda2a7bb2b87b92f8b1d4759d42dc/KakaoTalk_20221007_114215696.png" width="70%"/>
+<img src="(https://user-images.githubusercontent.com/22341159/201243657-273e4bec-f488-4aae-b5bd-2562e0aa960a.png" width="70%"/>
 
 ---
 
